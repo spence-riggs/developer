@@ -1,0 +1,133 @@
+/*
+div {
+    background-color: #e4f9f5;
+}
+*/
+
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border-color: lightgray;
+    border-width: 5px;
+    border-style: none;
+    width: 5%;
+    border-style: dotted none none;
+}
+
+a {
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    padding-top: 50px;
+    position: relative;
+}
+.middle-container {
+ 
+    
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;
+    line-height: 2;
+}
+
+.comp-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.project-management-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.profile {
+    margin:  100px auto 100px auto;
+    width: 50%;
+    line-height: 2;
+}
+
+.footer-link {
+    color: #11999E;
+    display: inline;
+    padding: 50px 10px 30px 10px;
+    text-decoration: none;
+    line-height: 2;
+}
+
+.btn {
+    background-color: #66BFBF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+.contact-me {
+    margin: 100px auto;
+    width: 50%;
+}
+
+.contact-main-text {
+    padding-bottom: 50px;
+}
+
+.credit {
+    color: white;
+    line-height: 2;
+}
